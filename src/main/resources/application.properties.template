@@ -1,0 +1,13 @@
+spring.application.name=resume
+spring.datasource.url=jdbc:postgresql://localhost:5432/jobmatcher
+spring.datasource.username=postgres
+spring.datasource.password=FILL_IN_YOUR_PASSWORD
+spring.datasource.driver-class-name=org.postgresql.Driver
+
+spring.jpa.hibernate.ddl-auto=validate
+spring.jpa.show-sql=true
+
+adzuna.app.id=FILL_IN_YOUR_APP_ID
+adzuna.app.key=FILL_IN_YOUR_APP_KEY
+
+anthropic.api.key=FILL_IN_YOUR_API_KEY
